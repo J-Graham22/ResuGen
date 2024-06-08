@@ -1,0 +1,17 @@
+{
+    "name": "Justin Graham",
+    "email": "justin.m.graham2@gmail.com",
+    "skills": [
+        "Zig",
+        "C/C++",
+        "Java"
+    ],
+    "experience": [
+        {
+            "company": "Crispin Corporation",
+            "role": "Software Developer",
+            "duration": "1 yr 4 months",
+            "description": "Did some stuff"
+        }
+    ]
+}
